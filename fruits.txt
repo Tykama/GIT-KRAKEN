@@ -2,3 +2,5 @@ apply
 mango
 banana
 orange
+pineapple
+watermellon
